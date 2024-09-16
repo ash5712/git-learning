@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'GDSC Summer Hackathon',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Hello Domain AAA',
+              'Hello Domain BBB',
             ),
             Text(
               '$_counter',
